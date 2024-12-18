@@ -3,7 +3,11 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="cardview_bg">#4DD9D9D9</color>
+    <color name="button_bg">#FF7043</color>
+    <color name="toolbar_color">#FF7043</color>
 
+    <color name="option_selected_background">#FFEB3B</color> <!-- Yellow for selected state -->
+    <color name="option_default_background">#FFFFFF</color> <!-- White for default state -->
 
 
 </resources>

@@ -25,5 +25,4 @@ abstract class BaseActivity<VM : ViewModel, B : ViewDataBinding> : AppCompatActi
     abstract fun getViewModelType(): Class<VM>
 
     abstract fun bindViews()
-    abstract fun trackSessionData(): LiveData<Boolean>?
 }
